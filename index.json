@@ -1,16 +1,16 @@
 [{
-"name":"Ankush",
-"roll no":101803381,
-"Batch":"COE17"
+"image":"lie.jpg"
 },
 {
-    "name":"Geetesh",
-    "roll no":101803382,
-    "Batch":"COE17"
+    "image":"no.png"
 },
 {
-"name":"Shivam",
-"roll no":101803383,
-"Batch":"COE17"
+    "image":"nora.jpg"
+},
+{
+    "image":"solo.png"
+},
+{
+    "image":"tok.jpg"
 }
 ]
